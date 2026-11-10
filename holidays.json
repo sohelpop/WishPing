@@ -1,10 +1,10 @@
 {
   "holidays": [
 {
-  "date": "2027-11-11",
+  "date": "2026-11-11",
   "name": "sohelpop",
   "type": "Government"
-},
+}
   ],
   "recurring": [
     {
