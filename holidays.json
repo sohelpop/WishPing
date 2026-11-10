@@ -27,12 +27,12 @@
       "monthDay": "12-16",
       "name": "Victory Day",
       "type": "Government"
-    }
+    },
     {
       "monthDay": "04-14",
       "name": "Bangla New Year",
       "type": "Government"
-    }
+    },
   ],
   "workingDays": [],
   "cancelledHolidays": [2026-11-14]
