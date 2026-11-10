@@ -24,7 +24,7 @@
       "type": "government"
     }
   ],
-  "workingDays": [2026-11-14],
-  "cancelledHolidays": []
+  "workingDays": [],
+  "cancelledHolidays": [2026-11-14]
 }
   
