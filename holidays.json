@@ -12,11 +12,6 @@
       "type": "Government"
     },
     {
-      "date": "2027-04-14",
-      "name": "Bangla New Year",
-      "type": "Government"
-    },
-    {
       "date": "2027-05-01",
       "name": "May Day",
       "type": "Government"
@@ -31,6 +26,11 @@
     {
       "monthDay": "12-16",
       "name": "Victory Day",
+      "type": "Government"
+    }
+    {
+      "monthDay": "04-14",
+      "name": "Bangla New Year",
       "type": "Government"
     }
   ],
