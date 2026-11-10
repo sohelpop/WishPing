@@ -20,12 +20,12 @@
       "date": "2027-05-01",
       "name": "May Day",
       "type": "Government"
-    }
+    },
     {
       "date": "2027-08-05",
       "name": "July Mass Uprising Day",
       "type": "Government"
-    }    
+    },    
   ],
   "recurring": [
     {
