@@ -1,31 +1,9 @@
-
 {
-  "holidays": [
-    {
-      "date": "2027-02-21",
-      "name": "International Mother Language Day",
-      "type": "Government"
-    },
-    {
-      "date": "2027-03-26",
-      "name": "Independence Day",
-      "type": "Government"
-    },
-    {
-      "date": "2027-05-01",
-      "name": "May Day",
-      "type": "Government"
-    },
-    {
-      "date": "2027-08-05",
-      "name": "July Mass Uprising Day",
-      "type": "Government"
-    },    
-  ],
+  "holidays": [],
   "recurring": [
     {
-      "monthDay": "12-16",
-      "name": "Victory Day",
+      "monthDay": "02-21",
+      "name": "Language Martyrs' Day",
       "type": "Government"
     },
     {
@@ -33,8 +11,22 @@
       "name": "Bangla New Year",
       "type": "Government"
     },
+    {
+      "monthDay": "05-01",
+      "name": "May Day",
+      "type": "Government"
+    },
+    {
+      "monthDay": "08-05",
+      "name": "July Mass Uprising Day",
+      "type": "Government"
+    },
+    {
+      "monthDay": "11-07",
+      "name": "National Revolution and Solidarity Day",
+      "type": "Government"
+    }
   ],
   "workingDays": [],
-  "cancelledHolidays": [2026-11-14]
+  "cancelledHolidays": []
 }
-  
