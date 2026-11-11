@@ -1,5 +1,66 @@
 {
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2027-01-24",
+      "name": "Shab-e-Barat",
+      "type": "Government"
+    },
+    {
+      "date": "2027-03-07",
+      "name": "Shab-e-Qadr",
+      "type": "Government"
+    },
+    {
+      "date": "2027-03-09",
+      "name": "Eid-ul-Fitr",
+      "type": "Government"
+    },
+    {
+      "date": "2027-03-10",
+      "name": "Eid-ul-Fitr",
+      "type": "Government"
+    },
+        {
+      "date": "2027-03-11",
+      "name": "Eid-ul-Fitr",
+      "type": "Government"
+    },
+    {
+      "date": "2027-03-12",
+      "name": "Eid-ul-Fitr",
+      "type": "Government"
+    },
+    {
+      "date": "2027-03-13",
+      "name": "Eid-ul-Fitr",
+      "type": "Government"
+    },
+    {
+      "date": "2027-05-16",
+      "name": "Eid-ul-Ahza",
+      "type": "Government"
+    },
+    {
+      "date": "2027-05-17",
+      "name": "Eid-ul-Ahza",
+      "type": "Government"
+    },
+    {
+      "date": "2027-05-18",
+      "name": "Eid-ul-Ahza",
+      "type": "Government"
+    },
+    {
+      "date": "2027-05-19",
+      "name": "Eid-ul-Ahza",
+      "type": "Government"
+    },
+    {
+      "date": "2027-05-20",
+      "name": "Eid-ul-Ahza",
+      "type": "Government"
+    }
+  ],
   "recurring": [
     {
       "monthDay": "02-21",
